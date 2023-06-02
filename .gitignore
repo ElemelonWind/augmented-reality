@@ -1,0 +1,6 @@
+.vscode
+/build/.cmake
+/build/CMakeFiles
+/build/l091.dir
+/build/x64
+notes.gdoc
